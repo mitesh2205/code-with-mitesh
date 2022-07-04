@@ -1,3 +1,4 @@
+nums = [0,1,3,0,2]
 j = 0
 for num in nums:
     if(num != 0):

@@ -6,7 +6,7 @@ def product_except_self(nums):
 
     for i in range(1,n):
         prefix[i] = nums[i-1] * prefix[i-1]
-    for i in rangge(n-1,-1,-1):
+    for i in range(n-1,-1,-1):
         postfix[i] = nums[i+1] * postfix[i+1]
 
     for i in range(n):

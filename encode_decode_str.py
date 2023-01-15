@@ -10,4 +10,4 @@ class Codec:
             i = j + int(s[i:j]) + 1
             strs.append(s[j+1:i])
         return strs
-
+        

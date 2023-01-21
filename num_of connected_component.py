@@ -1,3 +1,4 @@
+from collections import defaultdict
 def connected_component(n,edges):
     graph = defaultdict(list)
     for u,v in edges:

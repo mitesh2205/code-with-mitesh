@@ -7,7 +7,6 @@ def longest_palindromic_substring(s):
 
     for i in range(len(s)):
         #even length
-
         left = i
         right = i
 
@@ -19,7 +18,6 @@ def longest_palindromic_substring(s):
             right += 1
 
         # odd length
-
         left, right = i, i+1
 
         while left >= 0 and right < len(s) and s[left] == s[right]:

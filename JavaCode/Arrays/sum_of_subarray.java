@@ -1,6 +1,6 @@
 package JavaCode.Arrays;
 
-import java.util.ArrayList;
+// import java.util.ArrayList;
 
 public class sum_of_subarray {
     // public static ArrayList<Integer> list_of_sum = new ArrayList<Integer>();

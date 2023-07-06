@@ -1,5 +1,3 @@
-package JavaCode.Arrays;
-
 public class pair_of_arrays {
     public static void pair_array(int number[]) {
         for (int i = 0; i < number.length; i++) {

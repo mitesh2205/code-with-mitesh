@@ -1,5 +1,3 @@
-package JavaCode.Arrays;
-
 public class trapping_rain_water {
     public static void trapped_rain_water(int height[]) {
         int n = height.length;

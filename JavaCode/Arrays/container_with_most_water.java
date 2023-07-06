@@ -1,5 +1,3 @@
-package JavaCode.Arrays;
-
 public class container_with_most_water {
     public static void most_water(int height[]) {
         int area = 0;

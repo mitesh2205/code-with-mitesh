@@ -1,5 +1,3 @@
-package JavaCode.Arrays;
-
 // import java.util.ArrayList;
 
 public class sum_of_subarray {

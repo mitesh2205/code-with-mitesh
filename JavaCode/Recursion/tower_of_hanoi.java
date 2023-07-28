@@ -1,5 +1,3 @@
-package JavaCode;
-
 public class tower_of_hanoi {
     public static void tower_of_hanois(int n, char source, char destination, char helper) {
         if (n == 1) {
